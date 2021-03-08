@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lab-4-dialogue/static/css/main.b528de9c.chunk.css",
-    "main.js": "/lab-4-dialogue/static/js/main.cba01f7b.chunk.js",
-    "main.js.map": "/lab-4-dialogue/static/js/main.cba01f7b.chunk.js.map",
-    "runtime-main.js": "/lab-4-dialogue/static/js/runtime-main.1911dcae.js",
-    "runtime-main.js.map": "/lab-4-dialogue/static/js/runtime-main.1911dcae.js.map",
-    "static/js/2.aeb08f18.chunk.js": "/lab-4-dialogue/static/js/2.aeb08f18.chunk.js",
-    "static/js/2.aeb08f18.chunk.js.map": "/lab-4-dialogue/static/js/2.aeb08f18.chunk.js.map",
-    "index.html": "/lab-4-dialogue/index.html",
-    "static/css/main.b528de9c.chunk.css.map": "/lab-4-dialogue/static/css/main.b528de9c.chunk.css.map",
-    "static/js/2.aeb08f18.chunk.js.LICENSE.txt": "/lab-4-dialogue/static/js/2.aeb08f18.chunk.js.LICENSE.txt"
+    "main.css": "/react-xstate-colourchanger/static/css/main.b528de9c.chunk.css",
+    "main.js": "/react-xstate-colourchanger/static/js/main.cba01f7b.chunk.js",
+    "main.js.map": "/react-xstate-colourchanger/static/js/main.cba01f7b.chunk.js.map",
+    "runtime-main.js": "/react-xstate-colourchanger/static/js/runtime-main.e195dcc8.js",
+    "runtime-main.js.map": "/react-xstate-colourchanger/static/js/runtime-main.e195dcc8.js.map",
+    "static/js/2.aeb08f18.chunk.js": "/react-xstate-colourchanger/static/js/2.aeb08f18.chunk.js",
+    "static/js/2.aeb08f18.chunk.js.map": "/react-xstate-colourchanger/static/js/2.aeb08f18.chunk.js.map",
+    "index.html": "/react-xstate-colourchanger/index.html",
+    "static/css/main.b528de9c.chunk.css.map": "/react-xstate-colourchanger/static/css/main.b528de9c.chunk.css.map",
+    "static/js/2.aeb08f18.chunk.js.LICENSE.txt": "/react-xstate-colourchanger/static/js/2.aeb08f18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1911dcae.js",
+    "static/js/runtime-main.e195dcc8.js",
     "static/js/2.aeb08f18.chunk.js",
     "static/css/main.b528de9c.chunk.css",
     "static/js/main.cba01f7b.chunk.js"
